@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/dalyxos.github.io/static/css/main.40f0e6cc.chunk.css",
-    "main.js": "/dalyxos.github.io/static/js/main.91cfecb3.chunk.js",
-    "main.js.map": "/dalyxos.github.io/static/js/main.91cfecb3.chunk.js.map",
-    "runtime-main.js": "/dalyxos.github.io/static/js/runtime-main.6cfa6629.js",
-    "runtime-main.js.map": "/dalyxos.github.io/static/js/runtime-main.6cfa6629.js.map",
-    "static/css/2.d64471e2.chunk.css": "/dalyxos.github.io/static/css/2.d64471e2.chunk.css",
-    "static/js/2.b05d3167.chunk.js": "/dalyxos.github.io/static/js/2.b05d3167.chunk.js",
-    "static/js/2.b05d3167.chunk.js.map": "/dalyxos.github.io/static/js/2.b05d3167.chunk.js.map",
-    "index.html": "/dalyxos.github.io/index.html",
-    "precache-manifest.7b340a7eccf57580373333bc4976755f.js": "/dalyxos.github.io/precache-manifest.7b340a7eccf57580373333bc4976755f.js",
-    "service-worker.js": "/dalyxos.github.io/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/dalyxos.github.io/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.40f0e6cc.chunk.css.map": "/dalyxos.github.io/static/css/main.40f0e6cc.chunk.css.map",
-    "static/js/2.b05d3167.chunk.js.LICENSE.txt": "/dalyxos.github.io/static/js/2.b05d3167.chunk.js.LICENSE.txt",
-    "static/media/dalyxos.png": "/dalyxos.github.io/static/media/dalyxos.9d39f883.png",
-    "static/media/dx_logo.png": "/dalyxos.github.io/static/media/dx_logo.c71b2392.png"
+    "main.css": "/static/css/main.40f0e6cc.chunk.css",
+    "main.js": "/static/js/main.24aea612.chunk.js",
+    "main.js.map": "/static/js/main.24aea612.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5042f6b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5042f6b.js.map",
+    "static/css/2.d64471e2.chunk.css": "/static/css/2.d64471e2.chunk.css",
+    "static/js/2.b05d3167.chunk.js": "/static/js/2.b05d3167.chunk.js",
+    "static/js/2.b05d3167.chunk.js.map": "/static/js/2.b05d3167.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2ee3deea1067fa86d8447c84789042f1.js": "/precache-manifest.2ee3deea1067fa86d8447c84789042f1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.40f0e6cc.chunk.css.map": "/static/css/main.40f0e6cc.chunk.css.map",
+    "static/js/2.b05d3167.chunk.js.LICENSE.txt": "/static/js/2.b05d3167.chunk.js.LICENSE.txt",
+    "static/media/dalyxos.png": "/static/media/dalyxos.9d39f883.png",
+    "static/media/dx_logo.png": "/static/media/dx_logo.c71b2392.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cfa6629.js",
+    "static/js/runtime-main.a5042f6b.js",
     "static/css/2.d64471e2.chunk.css",
     "static/js/2.b05d3167.chunk.js",
     "static/css/main.40f0e6cc.chunk.css",
-    "static/js/main.91cfecb3.chunk.js"
+    "static/js/main.24aea612.chunk.js"
   ]
 }
