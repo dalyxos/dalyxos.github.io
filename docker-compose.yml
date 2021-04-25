@@ -1,9 +1,0 @@
-version: "3"
-services:
-  portfolio:
-    image: node:12
-    ports:
-      - "3000:3000"
-    volumes:
-      - $PWD:/app
-    working_dir: /app
