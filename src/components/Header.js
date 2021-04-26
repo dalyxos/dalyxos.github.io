@@ -5,6 +5,7 @@ import Avatar from "@material-ui/core/Avatar";
 import avatar from "../assets/img/dx_logo.png";
 import Grid from "@material-ui/core/Grid";
 import { makeStyles } from "@material-ui/core/styles";
+import ReactTypingEffect from 'react-typing-effect';
 
 const useStyles = makeStyles((theme) => ({
   avatar: {
@@ -42,10 +43,6 @@ class Header extends Component {
       this.titles = this.props.sharedData.titles.map(x => [ x.toUpperCase(), 1500 ] ).flat();
     }
 
-    const HeaderTitleTypeAnimation = React.memo( () => {
-      return <Typical className="title-styles" steps={this.titles} loop={50} />
-    }, (props, prevProp) => true);
-
     return (
       <header id="home" style={{ height: window.innerHeight - 140, display: 'block' }}>
         <div className="row aligner" style={{height: '100%'}}>
@@ -58,9 +55,14 @@ class Header extends Component {
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
               </h1>
-              <div className="title-container">
-                <HeaderTitleTypeAnimation />
-              </div>
+              <h3 className="title-container">
+                <ReactTypingEffect
+                  text="Embedded Software Developer || SCRUM Master ... "
+                  className="typical"
+                  speed="100"
+                  eraseDelay="500000"
+                  />
+              </h3>
               <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}

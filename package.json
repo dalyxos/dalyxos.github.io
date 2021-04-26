@@ -1,6 +1,6 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "http://dalyxos.github.io/dalyxos.github.io",
+  "homepage": "https://dalyxos.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,6 +18,7 @@
     "react-scripts": "3.4.3",
     "react-switch": "^5.0.1",
     "react-typical": "^0.1.3",
+    "react-typing-effect": "^2.0.5",
     "react-vertical-timeline-component": "^3.3.1"
   },
   "scripts": {
