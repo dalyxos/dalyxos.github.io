@@ -81,37 +81,54 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Sagemcom Software & Technologies",
+        "logo":"https://www.sagemcom.com/sites/default/files/logo-sagemcom-new-charte-header.png",
+        "title": "Senior Embedded Software Developer",
+        "years": "04.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "C/C++"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "C/C++",
+          "Networking",
+          "GIT"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "SACEM Smart",
+        "logo":"http://www.sacemsmart.com/images/logo.png",
+        "title": "Senior Embedded Software Developer",
+        "years": "12.2017 - 03.2019",
         "mainTech": [
-          "Angular 7/8"
+          "C"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "C",
+          "GIT",
+          "Python",
+          "STM32",
+          "Metrology",
+          "Smart Grid",
+          "Smart Meter",
+          "M2M",
+          "MQTT"
+        ]
+      },
+      {
+        "company": "Neway-IT",
+        "logo":"https://neway-it.com/images/4/5/8/0/f/4580ffb748e9e63581a7d5f9488a50a48002f67d-logo.jpeg",
+        "title": "Embedded Software Developer",
+        "years": "02.2011 - 11.2017",
+        "mainTech": [
+          "C"
+        ],
+        "technologies": [
+          "C",
+          "SVN",
+          "Digital TV",
+          "DVB",
+          "CAS",
+          "Condional Access"
         ]
       }
     ]
