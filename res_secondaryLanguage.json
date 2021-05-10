@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Bonjour",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description": "Développeur softwares embarqués chez Sagemcom Software & Technologies, avec plus de 10 ans d'expérience dans trois sociétés d'ingénierie bien connues. Dans tous les postes que j'occupais, la maîtrise des outils et de l'environnement de développement était assez rapide. Je crois que ma capacité analytique m'aide à résoudre des problèmes difficiles. ",
       "section_name": {
         "about": "A propos de moi",
         "projects": "Projects",
@@ -81,35 +81,54 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Sagemcom Software & Technologies",
+        "logo":"https://www.sagemcom.com/sites/default/files/logo-sagemcom-new-charte-header.png",
+        "title": "Développeur Software Embarqué Senior",
+        "years": "04.2019 - présent",
         "mainTech": [
-          "Angular 8/9/10"
+          "C/C++"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "C/C++",
+          "Networking",
+          "GIT"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "SACEM Smart",
+        "logo":"http://www.sacemsmart.com/images/logo.png",
+        "title": "Développeur Software Embarqué Senior",
+        "years": "12.2017 - 03.2019",
         "mainTech": [
-          "Angular 7/8"
+          "C"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "C",
+          "GIT",
+          "Python",
+          "STM32",
+          "Metrology",
+          "Smart Grid",
+          "Smart Meter",
+          "M2M",
+          "MQTT"
+        ]
+      },
+      {
+        "company": "Neway-IT",
+        "logo":"https://neway-it.com/images/4/5/8/0/f/4580ffb748e9e63581a7d5f9488a50a48002f67d-logo.jpeg",
+        "title": "Développeur Software Embarqué",
+        "years": "02.2011 - 11.2017",
+        "mainTech": [
+          "C"
+        ],
+        "technologies": [
+          "C",
+          "SVN",
+          "Digital TV",
+          "DVB",
+          "CAS",
+          "Condional Access"
         ]
       }
     ]
